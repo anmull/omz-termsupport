@@ -18,5 +18,7 @@ antigen bundle anmull/omz-termsupport
 
 ### Manual
 
+```
 git clone https://github.com/anmull/omz-termsupport
 source "omz-termsupport/termsupport.plugin.zsh"
+```
